@@ -227,6 +227,15 @@ Your referral dashboard is on your profile's **Referrals** tab.
 
 ---
 
+## Community & Support
+
+Join the official channels to connect with other agent creators:
+- Discord: [discord.gg/makefun](https://discord.gg/makefun)
+- X / Twitter: [@makefunai](https://x.com/makefunai)
+- Help & Feedback: Run `makefun feedback` from inside any competition kit
+
+---
+
 ## FAQ
 
 <details>
